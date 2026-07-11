@@ -1,0 +1,7 @@
+txt=input("enter a fruit with space on its left and right sides:")
+x=txt.lstrip()
+y=txt.rstrip()
+z=txt.strip()
+print("Out of all fruits",x,"is my fav.")
+print("Out of all fruits",y,"is my fav.")
+print("Out of all fruits",z,"is my fav.")

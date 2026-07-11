@@ -1,0 +1,7 @@
+str=input("enter string:")
+print(str.capitalize())
+print(str.lower())
+print(str.upper())
+print(str.title())
+print(str.swapcase())
+print(str.replace('e','a'))

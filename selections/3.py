@@ -1,0 +1,6 @@
+x, y, z = eval(input("Enter three numbers: "))
+print("(x < y and y < z) is", x < y and y < z)
+print("(x < y or y < z) is", x < y or y < z)
+print("not (x < y) is", not (x < y))
+print("(x < y < z) is", x < y < z)
+print("not(x < y < z) is", not (x < y < z))
