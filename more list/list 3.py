@@ -1,0 +1,6 @@
+l1=list(range(1,10))
+print(l1)
+l1=list("abcde")
+print(l1)
+l1=list(["red","green","blue",56,78.4,'s'])
+print(l1)

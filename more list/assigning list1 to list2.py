@@ -1,0 +1,12 @@
+l=[1,3,5,6,7]
+l1=l[:]
+print(l)
+print(l1)
+print()
+l1=l[::]
+print(l)
+print(l1)
+print()
+l1=l[::2]
+print(l)
+print(l1)
