@@ -1,0 +1,7 @@
+tup=(1,2,3,4,5,6)
+print(tup,type(tup))
+print("Max=",max(tup))
+print("Min=",min(tup))
+print("Length=",len(tup))
+print("Sum=",sum(tup))
+print(tup[1:])
