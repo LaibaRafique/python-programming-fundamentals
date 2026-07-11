@@ -1,7 +1,0 @@
-t = (1, 2, 3, 7, 9, 0, 5)
-print(t)
-print(t[0])
-print(t[1: 3])
-print(t[-1])
-print(t[ : -1])
-print(t[1 : -1]) 
