@@ -1,0 +1,14 @@
+tsub=eval(input("Enter total number of subjects:"))
+max=eval(input("Enter max marks of subjects:"))
+total=tsub*max
+sum=0
+marks=0
+i=1
+while i<=tsub:
+    print("Enter marks of subjects",i,"::",end="")
+    marks=eval(input(""))
+    sum=sum+marks
+    i+=1
+print("Sum=",sum)
+per=(sum/total)*100.0
+print("Percentage=",per,"%")
