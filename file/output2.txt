@@ -1,0 +1,2 @@
+"I study in SSUET.Welcome to my file!"
+Python is interpreted
