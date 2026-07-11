@@ -1,0 +1,8 @@
+birth_date=int,str(input("Enter your Date of Birth:"))
+roll_no=eval(input("Enter your Roll No.:"))
+section=input("Enter your Section:")
+percentage=eval(input("Enter your Percentage:"))
+grade=input("Enter your Grade of Matriculation and Intermediate:")
+print("\t\t\tBio_Data")
+print("Date of Birth=",birth_date,"\nRoll No.=",roll_no,"\nSection=",section)
+print("Percentage=",percentage,"%","\nGrade of Matriculation and Intermediate=",grade)
